@@ -16,3 +16,4 @@
 | 14 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 18 Oct 2026 | 09:15 am |
 | 15 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 18 Oct 2026 | 09:15 am |
 | 16 | [Valid Binary Strings With Cost Limit](./LeetCode/Medium/Valid%20Binary%20Strings%20With%20Cost%20Limit) | [LeetCode](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | Medium | 18 Oct 2026 | 09:15 am |
+| 17 | [Beautiful Arrangement](./LeetCode/Medium/Beautiful%20Arrangement) | [LeetCode](https://leetcode.com/problems/beautiful-arrangement/) | Medium | 18 Oct 2026 | 09:15 am |
