@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 1,
-    "medium": 2,
+    "medium": 3,
     "hard": 1,
     "basic": 0
   },
@@ -14,15 +14,17 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_Add_Two_Numbers": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
-    "LeetCode_Median_of_Two_Sorted_Arrays": true
+    "LeetCode_Median_of_Two_Sorted_Arrays": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
-    "2026-10-18": 4
+    "2026-10-18": 5
   },
   "todayProblems": [
     "Two Sum",
     "Add Two Numbers",
     "Longest Substring Without Repeating Characters",
-    "Median of Two Sorted Arrays"
+    "Median of Two Sorted Arrays",
+    "Longest Palindromic Substring"
   ]
 }
