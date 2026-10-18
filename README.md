@@ -11,3 +11,4 @@
 | 9 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 18 Oct 2026 | 09:13 am |
 | 10 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 18 Oct 2026 | 09:13 am |
 | 11 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 18 Oct 2026 | 09:14 am |
+| 12 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Oct 2026 | 09:14 am |

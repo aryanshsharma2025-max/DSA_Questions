@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 5,
     "hard": 1,
     "basic": 0
@@ -21,10 +21,11 @@
     "LeetCode_Minimum_Right_Shifts_to_Sort_the_Array": true,
     "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true,
     "LeetCode_Assign_Cookies": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true
   },
   "activityHistory": {
-    "2026-10-18": 11
+    "2026-10-18": 12
   },
   "todayProblems": [
     "Two Sum",
@@ -37,6 +38,7 @@
     "Minimum Right Shifts to Sort the Array",
     "Capacity To Ship Packages Within D Days",
     "Assign Cookies",
-    "Valid Parentheses"
+    "Valid Parentheses",
+    "Remove All Adjacent Duplicates In String"
   ]
 }
