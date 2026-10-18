@@ -10,3 +10,4 @@
 | 8 | [Minimum Right Shifts to Sort the Array](./LeetCode/Easy/Minimum%20Right%20Shifts%20to%20Sort%20the%20Array) | [LeetCode](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | Easy | 18 Oct 2026 | 09:13 am |
 | 9 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 18 Oct 2026 | 09:13 am |
 | 10 | [Assign Cookies](./LeetCode/Easy/Assign%20Cookies) | [LeetCode](https://leetcode.com/problems/assign-cookies/) | Easy | 18 Oct 2026 | 09:13 am |
+| 11 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 18 Oct 2026 | 09:14 am |
