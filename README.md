@@ -17,3 +17,4 @@
 | 15 | [Count Good Numbers](./LeetCode/Medium/Count%20Good%20Numbers) | [LeetCode](https://leetcode.com/problems/count-good-numbers/) | Medium | 18 Oct 2026 | 09:15 am |
 | 16 | [Valid Binary Strings With Cost Limit](./LeetCode/Medium/Valid%20Binary%20Strings%20With%20Cost%20Limit) | [LeetCode](https://leetcode.com/problems/valid-binary-strings-with-cost-limit/) | Medium | 18 Oct 2026 | 09:15 am |
 | 17 | [Beautiful Arrangement](./LeetCode/Medium/Beautiful%20Arrangement) | [LeetCode](https://leetcode.com/problems/beautiful-arrangement/) | Medium | 18 Oct 2026 | 09:15 am |
+| 18 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 18 Oct 2026 | 09:15 am |
