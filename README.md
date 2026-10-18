@@ -13,3 +13,4 @@
 | 11 | [Valid Parentheses](./LeetCode/Easy/Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) | Easy | 18 Oct 2026 | 09:14 am |
 | 12 | [Remove All Adjacent Duplicates In String](./LeetCode/Easy/Remove%20All%20Adjacent%20Duplicates%20In%20String) | [LeetCode](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Easy | 18 Oct 2026 | 09:14 am |
 | 13 | [Permutations](./LeetCode/Medium/Permutations) | [LeetCode](https://leetcode.com/problems/permutations/) | Medium | 18 Oct 2026 | 09:14 am |
+| 14 | [Combination Sum](./LeetCode/Medium/Combination%20Sum) | [LeetCode](https://leetcode.com/problems/combination-sum/) | Medium | 18 Oct 2026 | 09:15 am |
