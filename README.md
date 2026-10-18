@@ -8,3 +8,4 @@
 | 6 | [Reverse Integer](./LeetCode/Medium/Reverse%20Integer) | [LeetCode](https://leetcode.com/problems/reverse-integer/) | Medium | 18 Oct 2026 | 09:12 am |
 | 7 | [Palindrome Number](./LeetCode/Easy/Palindrome%20Number) | [LeetCode](https://leetcode.com/problems/palindrome-number/) | Easy | 18 Oct 2026 | 09:12 am |
 | 8 | [Minimum Right Shifts to Sort the Array](./LeetCode/Easy/Minimum%20Right%20Shifts%20to%20Sort%20the%20Array) | [LeetCode](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/) | Easy | 18 Oct 2026 | 09:13 am |
+| 9 | [Capacity To Ship Packages Within D Days](./LeetCode/Medium/Capacity%20To%20Ship%20Packages%20Within%20D%20Days) | [LeetCode](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | 18 Oct 2026 | 09:13 am |

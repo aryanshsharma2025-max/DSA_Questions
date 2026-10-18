@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -18,10 +18,11 @@
     "LeetCode_Longest_Palindromic_Substring": true,
     "LeetCode_Reverse_Integer": true,
     "LeetCode_Palindrome_Number": true,
-    "LeetCode_Minimum_Right_Shifts_to_Sort_the_Array": true
+    "LeetCode_Minimum_Right_Shifts_to_Sort_the_Array": true,
+    "LeetCode_Capacity_To_Ship_Packages_Within_D_Days": true
   },
   "activityHistory": {
-    "2026-10-18": 8
+    "2026-10-18": 9
   },
   "todayProblems": [
     "Two Sum",
@@ -31,6 +32,7 @@
     "Longest Palindromic Substring",
     "Reverse Integer",
     "Palindrome Number",
-    "Minimum Right Shifts to Sort the Array"
+    "Minimum Right Shifts to Sort the Array",
+    "Capacity To Ship Packages Within D Days"
   ]
 }
