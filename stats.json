@@ -1,11 +1,11 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 20,
+  "todayCount": 21,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 11,
     "hard": 2,
     "basic": 0
@@ -30,10 +30,11 @@
     "LeetCode_Beautiful_Arrangement": true,
     "LeetCode_N-Queens": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
-    "LeetCode_Rotate_List": true
+    "LeetCode_Rotate_List": true,
+    "LeetCode_Longest_Common_Prefix": true
   },
   "activityHistory": {
-    "2026-10-18": 20
+    "2026-10-18": 21
   },
   "todayProblems": [
     "Two Sum",
@@ -55,6 +56,7 @@
     "Beautiful Arrangement",
     "N-Queens",
     "Merge Two Sorted Lists",
-    "Rotate List"
+    "Rotate List",
+    "Longest Common Prefix"
   ]
 }
