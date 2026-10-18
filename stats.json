@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 14,
+  "todayCount": 15,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 0
   },
@@ -24,10 +24,11 @@
     "LeetCode_Valid_Parentheses": true,
     "LeetCode_Remove_All_Adjacent_Duplicates_In_String": true,
     "LeetCode_Permutations": true,
-    "LeetCode_Combination_Sum": true
+    "LeetCode_Combination_Sum": true,
+    "LeetCode_Count_Good_Numbers": true
   },
   "activityHistory": {
-    "2026-10-18": 14
+    "2026-10-18": 15
   },
   "todayProblems": [
     "Two Sum",
@@ -43,6 +44,7 @@
     "Valid Parentheses",
     "Remove All Adjacent Duplicates In String",
     "Permutations",
-    "Combination Sum"
+    "Combination Sum",
+    "Count Good Numbers"
   ]
 }
