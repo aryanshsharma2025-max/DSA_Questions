@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-18",
-  "todayCount": 19,
+  "todayCount": 20,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 10,
+    "medium": 11,
     "hard": 2,
     "basic": 0
   },
@@ -29,10 +29,11 @@
     "LeetCode_Valid_Binary_Strings_With_Cost_Limit": true,
     "LeetCode_Beautiful_Arrangement": true,
     "LeetCode_N-Queens": true,
-    "LeetCode_Merge_Two_Sorted_Lists": true
+    "LeetCode_Merge_Two_Sorted_Lists": true,
+    "LeetCode_Rotate_List": true
   },
   "activityHistory": {
-    "2026-10-18": 19
+    "2026-10-18": 20
   },
   "todayProblems": [
     "Two Sum",
@@ -53,6 +54,7 @@
     "Valid Binary Strings With Cost Limit",
     "Beautiful Arrangement",
     "N-Queens",
-    "Merge Two Sorted Lists"
+    "Merge Two Sorted Lists",
+    "Rotate List"
   ]
 }

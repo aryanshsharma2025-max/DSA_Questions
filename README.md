@@ -19,3 +19,4 @@
 | 17 | [Beautiful Arrangement](./LeetCode/Medium/Beautiful%20Arrangement) | [LeetCode](https://leetcode.com/problems/beautiful-arrangement/) | Medium | 18 Oct 2026 | 09:15 am |
 | 18 | [N-Queens](./LeetCode/Hard/N-Queens) | [LeetCode](https://leetcode.com/problems/n-queens/) | Hard | 18 Oct 2026 | 09:15 am |
 | 19 | [Merge Two Sorted Lists](./LeetCode/Easy/Merge%20Two%20Sorted%20Lists) | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | 18 Oct 2026 | 09:15 am |
+| 20 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 18 Oct 2026 | 09:16 am |
