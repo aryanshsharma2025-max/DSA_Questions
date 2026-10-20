@@ -1,11 +1,11 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-10-18",
-  "todayCount": 21,
+  "lastSyncDate": "2026-10-20",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 11,
     "hard": 2,
     "basic": 0
@@ -31,32 +31,14 @@
     "LeetCode_N-Queens": true,
     "LeetCode_Merge_Two_Sorted_Lists": true,
     "LeetCode_Rotate_List": true,
-    "LeetCode_Longest_Common_Prefix": true
+    "LeetCode_Longest_Common_Prefix": true,
+    "LeetCode_Remove_Duplicates_from_Sorted_Array": true
   },
   "activityHistory": {
-    "2026-10-18": 21
+    "2026-10-18": 21,
+    "2026-10-20": 1
   },
   "todayProblems": [
-    "Two Sum",
-    "Add Two Numbers",
-    "Longest Substring Without Repeating Characters",
-    "Median of Two Sorted Arrays",
-    "Longest Palindromic Substring",
-    "Reverse Integer",
-    "Palindrome Number",
-    "Minimum Right Shifts to Sort the Array",
-    "Capacity To Ship Packages Within D Days",
-    "Assign Cookies",
-    "Valid Parentheses",
-    "Remove All Adjacent Duplicates In String",
-    "Permutations",
-    "Combination Sum",
-    "Count Good Numbers",
-    "Valid Binary Strings With Cost Limit",
-    "Beautiful Arrangement",
-    "N-Queens",
-    "Merge Two Sorted Lists",
-    "Rotate List",
-    "Longest Common Prefix"
+    "Remove Duplicates from Sorted Array"
   ]
 }
