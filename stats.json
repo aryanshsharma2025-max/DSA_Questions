@@ -1,11 +1,11 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-20",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 11,
     "hard": 2,
     "basic": 0
@@ -33,14 +33,16 @@
     "LeetCode_Rotate_List": true,
     "LeetCode_Longest_Common_Prefix": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Remove_Element": true
+    "LeetCode_Remove_Element": true,
+    "LeetCode_Search_Insert_Position": true
   },
   "activityHistory": {
     "2026-10-18": 21,
-    "2026-10-20": 2
+    "2026-10-20": 3
   },
   "todayProblems": [
     "Remove Duplicates from Sorted Array",
-    "Remove Element"
+    "Remove Element",
+    "Search Insert Position"
   ]
 }
