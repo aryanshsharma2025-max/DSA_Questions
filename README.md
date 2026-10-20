@@ -22,3 +22,4 @@
 | 20 | [Rotate List](./LeetCode/Medium/Rotate%20List) | [LeetCode](https://leetcode.com/problems/rotate-list/) | Medium | 18 Oct 2026 | 09:16 am |
 | 21 | [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | Easy | 18 Oct 2026 | 09:37 am |
 | 22 | [Remove Duplicates from Sorted Array](./LeetCode/Easy/Remove%20Duplicates%20from%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | 20 Oct 2026 | 02:49 pm |
+| 23 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 20 Oct 2026 | 03:38 pm |
