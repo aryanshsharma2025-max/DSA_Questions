@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "currentStreak": 1,
   "maxStreak": 1,
-  "lastSyncDate": "2026-10-20",
-  "todayCount": 5,
+  "lastSyncDate": "2026-10-23",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 11,
+    "medium": 12,
     "hard": 2,
     "basic": 0
   },
@@ -36,17 +36,15 @@
     "LeetCode_Remove_Element": true,
     "LeetCode_Search_Insert_Position": true,
     "LeetCode_Plus_One": true,
-    "LeetCode_Merge_Sorted_Array": true
+    "LeetCode_Merge_Sorted_Array": true,
+    "LeetCode_Number_of_Provinces": true
   },
   "activityHistory": {
     "2026-10-18": 21,
-    "2026-10-20": 5
+    "2026-10-20": 5,
+    "2026-10-23": 1
   },
   "todayProblems": [
-    "Remove Duplicates from Sorted Array",
-    "Remove Element",
-    "Search Insert Position",
-    "Plus One",
-    "Merge Sorted Array"
+    "Number of Provinces"
   ]
 }

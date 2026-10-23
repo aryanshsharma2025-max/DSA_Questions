@@ -26,3 +26,4 @@
 | 24 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 20 Oct 2026 | 03:45 pm |
 | 25 | [Plus One](./LeetCode/Easy/Plus%20One) | [LeetCode](https://leetcode.com/problems/plus-one/) | Easy | 20 Oct 2026 | 03:56 pm |
 | 26 | [Merge Sorted Array](./LeetCode/Easy/Merge%20Sorted%20Array) | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | Easy | 20 Oct 2026 | 04:08 pm |
+| 27 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 23 Oct 2026 | 02:43 pm |
