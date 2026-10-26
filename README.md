@@ -29,3 +29,4 @@
 | 27 | [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) | [LeetCode](https://leetcode.com/problems/number-of-provinces/) | Medium | 23 Oct 2026 | 02:43 pm |
 | 28 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 23 Oct 2026 | 03:16 pm |
 | 29 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 26 Oct 2026 | 02:46 pm |
+| 30 | [Directed Graph Cycle](./GeeksForGeeks/Medium/Directed%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Medium | 26 Oct 2026 | 03:10 pm |
