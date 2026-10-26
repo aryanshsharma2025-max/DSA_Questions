@@ -30,3 +30,4 @@
 | 28 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 23 Oct 2026 | 03:16 pm |
 | 29 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 26 Oct 2026 | 02:46 pm |
 | 30 | [Directed Graph Cycle](./GeeksForGeeks/Medium/Directed%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Medium | 26 Oct 2026 | 03:10 pm |
+| 31 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 26 Oct 2026 | 03:31 pm |

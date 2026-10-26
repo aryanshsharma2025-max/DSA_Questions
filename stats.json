@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-10-26",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 15,
+    "medium": 16,
     "hard": 2,
     "basic": 0
   },
@@ -40,16 +40,18 @@
     "LeetCode_Number_of_Provinces": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Is_Graph_Bipartite?": true,
-    "GeeksForGeeks_Directed_Graph_Cycle": true
+    "GeeksForGeeks_Directed_Graph_Cycle": true,
+    "LeetCode_Course_Schedule": true
   },
   "activityHistory": {
     "2026-10-18": 21,
     "2026-10-20": 5,
     "2026-10-23": 2,
-    "2026-10-26": 2
+    "2026-10-26": 3
   },
   "todayProblems": [
     "Is Graph Bipartite?",
-    "Directed Graph Cycle"
+    "Directed Graph Cycle",
+    "Course Schedule"
   ]
 }
