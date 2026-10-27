@@ -1,12 +1,12 @@
 {
-  "totalSolved": 31,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-10-26",
-  "todayCount": 3,
+  "totalSolved": 32,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-10-27",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 16,
+    "medium": 17,
     "hard": 2,
     "basic": 0
   },
@@ -41,17 +41,17 @@
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Is_Graph_Bipartite?": true,
     "GeeksForGeeks_Directed_Graph_Cycle": true,
-    "LeetCode_Course_Schedule": true
+    "LeetCode_Course_Schedule": true,
+    "GeeksForGeeks_Topological_Sort": true
   },
   "activityHistory": {
     "2026-10-18": 21,
     "2026-10-20": 5,
     "2026-10-23": 2,
-    "2026-10-26": 3
+    "2026-10-26": 3,
+    "2026-10-27": 1
   },
   "todayProblems": [
-    "Is Graph Bipartite?",
-    "Directed Graph Cycle",
-    "Course Schedule"
+    "Topological Sort"
   ]
 }
