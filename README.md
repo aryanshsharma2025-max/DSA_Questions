@@ -32,3 +32,4 @@
 | 30 | [Directed Graph Cycle](./GeeksForGeeks/Medium/Directed%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | Medium | 26 Oct 2026 | 03:10 pm |
 | 31 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 26 Oct 2026 | 03:31 pm |
 | 32 | [Topological Sort](./GeeksForGeeks/Medium/Topological%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/topological-sort/1) | Medium | 27 Oct 2026 | 02:39 pm |
+| 33 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 28 Oct 2026 | 02:37 pm |

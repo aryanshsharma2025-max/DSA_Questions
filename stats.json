@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-10-27",
+  "totalSolved": 33,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-10-28",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 17,
+    "medium": 18,
     "hard": 2,
     "basic": 0
   },
@@ -42,16 +42,18 @@
     "LeetCode_Is_Graph_Bipartite?": true,
     "GeeksForGeeks_Directed_Graph_Cycle": true,
     "LeetCode_Course_Schedule": true,
-    "GeeksForGeeks_Topological_Sort": true
+    "GeeksForGeeks_Topological_Sort": true,
+    "GeeksForGeeks_Frog_Jump": true
   },
   "activityHistory": {
     "2026-10-18": 21,
     "2026-10-20": 5,
     "2026-10-23": 2,
     "2026-10-26": 3,
-    "2026-10-27": 1
+    "2026-10-27": 1,
+    "2026-10-28": 1
   },
   "todayProblems": [
-    "Topological Sort"
+    "Frog Jump"
   ]
 }
