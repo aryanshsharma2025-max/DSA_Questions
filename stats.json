@@ -1,11 +1,11 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "currentStreak": 3,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-28",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 18,
     "hard": 2,
     "basic": 0
@@ -43,7 +43,8 @@
     "GeeksForGeeks_Directed_Graph_Cycle": true,
     "LeetCode_Course_Schedule": true,
     "GeeksForGeeks_Topological_Sort": true,
-    "GeeksForGeeks_Frog_Jump": true
+    "GeeksForGeeks_Frog_Jump": true,
+    "LeetCode_Climbing_Stairs": true
   },
   "activityHistory": {
     "2026-10-18": 21,
@@ -51,9 +52,10 @@
     "2026-10-23": 2,
     "2026-10-26": 3,
     "2026-10-27": 1,
-    "2026-10-28": 1
+    "2026-10-28": 2
   },
   "todayProblems": [
-    "Frog Jump"
+    "Frog Jump",
+    "Climbing Stairs"
   ]
 }

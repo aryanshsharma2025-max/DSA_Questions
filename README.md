@@ -33,3 +33,4 @@
 | 31 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 26 Oct 2026 | 03:31 pm |
 | 32 | [Topological Sort](./GeeksForGeeks/Medium/Topological%20Sort) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/topological-sort/1) | Medium | 27 Oct 2026 | 02:39 pm |
 | 33 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 28 Oct 2026 | 02:37 pm |
+| 34 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 28 Oct 2026 | 02:48 pm |
